@@ -7,11 +7,11 @@
     "type": "git",
     "url": "https://github.com/muhammad-zulfikar/muhammad-zulfikar.github.io"
   },
-  "homepage": "http://muhammad-zulfikar.github.io/muhammad-zulfikar.github.io",
+  "homepage": "http://muhammad-zulfikar.github.io",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts build",
+    "build": "react-scripts --openssl-legacy-provider start build",
     "test:base": "react-scripts test --passWithNoTests",
     "test": "npm run test:base -- --watchAll=false",
     "test:watch": "npm run test:base -- --watchAll",
