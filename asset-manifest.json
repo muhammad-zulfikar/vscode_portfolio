@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/muhammad-zulfikar.github.io/static/js/main.e762b29c.chunk.js",
+    "main.js.map": "/muhammad-zulfikar.github.io/static/js/main.e762b29c.chunk.js.map",
+    "runtime-main.js": "/muhammad-zulfikar.github.io/static/js/runtime-main.ac8f2bc3.js",
+    "runtime-main.js.map": "/muhammad-zulfikar.github.io/static/js/runtime-main.ac8f2bc3.js.map",
+    "static/css/2.764ccc25.chunk.css": "/muhammad-zulfikar.github.io/static/css/2.764ccc25.chunk.css",
+    "static/js/2.ad954a1d.chunk.js": "/muhammad-zulfikar.github.io/static/js/2.ad954a1d.chunk.js",
+    "static/js/2.ad954a1d.chunk.js.map": "/muhammad-zulfikar.github.io/static/js/2.ad954a1d.chunk.js.map",
+    "static/js/3.8ab5b809.chunk.js": "/muhammad-zulfikar.github.io/static/js/3.8ab5b809.chunk.js",
+    "static/js/3.8ab5b809.chunk.js.map": "/muhammad-zulfikar.github.io/static/js/3.8ab5b809.chunk.js.map",
+    "static/js/4.1bfbfdd5.chunk.js": "/muhammad-zulfikar.github.io/static/js/4.1bfbfdd5.chunk.js",
+    "static/js/4.1bfbfdd5.chunk.js.map": "/muhammad-zulfikar.github.io/static/js/4.1bfbfdd5.chunk.js.map",
+    "static/js/5.6dcdf22b.chunk.js": "/muhammad-zulfikar.github.io/static/js/5.6dcdf22b.chunk.js",
+    "static/js/5.6dcdf22b.chunk.js.map": "/muhammad-zulfikar.github.io/static/js/5.6dcdf22b.chunk.js.map",
+    "static/js/6.52363fd6.chunk.js": "/muhammad-zulfikar.github.io/static/js/6.52363fd6.chunk.js",
+    "static/js/6.52363fd6.chunk.js.map": "/muhammad-zulfikar.github.io/static/js/6.52363fd6.chunk.js.map",
+    "index.html": "/muhammad-zulfikar.github.io/index.html",
+    "precache-manifest.90e4a5d214d53d9a83fc00d348ed8219.js": "/muhammad-zulfikar.github.io/precache-manifest.90e4a5d214d53d9a83fc00d348ed8219.js",
+    "service-worker.js": "/muhammad-zulfikar.github.io/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/muhammad-zulfikar.github.io/static/css/2.764ccc25.chunk.css.map",
+    "static/js/2.ad954a1d.chunk.js.LICENSE.txt": "/muhammad-zulfikar.github.io/static/js/2.ad954a1d.chunk.js.LICENSE.txt",
+    "static/js/main.e762b29c.chunk.js.LICENSE.txt": "/muhammad-zulfikar.github.io/static/js/main.e762b29c.chunk.js.LICENSE.txt",
+    "static/media/education.md": "/muhammad-zulfikar.github.io/static/media/education.e35473ec.md",
+    "static/media/experience.md": "/muhammad-zulfikar.github.io/static/media/experience.a8c44302.md",
+    "static/media/projects.md": "/muhammad-zulfikar.github.io/static/media/projects.c6ce8f37.md",
+    "static/media/skills.md": "/muhammad-zulfikar.github.io/static/media/skills.6f5b2950.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac8f2bc3.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.ad954a1d.chunk.js",
+    "static/js/main.e762b29c.chunk.js"
+  ]
+}
