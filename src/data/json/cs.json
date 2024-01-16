@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "title": "Undergraduate International Relations Student",
+    "subtitle": "Universitas Pembangunan Nasional Veteran Jakarta",
+    "info": "Currently enrolled in a 4th semester."
+  },
+  "semesters": [
+    {
+      "name": "2021",
+      "dates": {
+        "start": "2021-08-14",
+        "end": "Present"
+      },
+      "courses": [
+        {
+          "courseName": "CHEM 101 - A",
+          "sections": [
+            {
+              "title": "General Chemistry I",
+              "url": "https://catalog.drexel.edu/search/?P=CHEM%20101",
+              "progress": {
+                "completed": 3.5,
+                "total": 3.5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGL 101 - A",
+          "sections": [
+            {
+              "title": "Composition and Rhetoric I",
+              "url": "https://catalog.drexel.edu/search/?P=ENGL%20101",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGR 111 - A",
+          "sections": [
+            {
+              "title": "Intro to Engin Design & Data",
+              "url": "https://catalog.drexel.edu/search/?P=ENGR%20111",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 121 - A",
+          "sections": [
+            {
+              "title": "Calculus I",
+              "url": "https://www.math.drexel.edu/classes/Calculus/math121.html",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "UNIV 101 - A+",
+          "sections": [
+            {
+              "title": "The Drexel Experience",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/univas/#:~:text=Courses-,UNIV%C2%A0H101,-The%20Drexel%20Experience",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winter 2020",
+      "dates": {
+        "start": "2020-01-06",
+        "end": "2020-03-21"
+      },
+      "courses": [
+        {
+          "courseName": "CHEM 102 - A",
+          "sections": [
+            {
+              "title": "General Chemistry II",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/chem/#:~:text=%3A%20EXAM%20080-,CHEM%C2%A0102,-General%20Chemistry%20II",
+              "progress": {
+                "completed": 4.5,
+                "total": 4.5
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CIVC 101 - A+",
+          "sections": [
+            {
+              "title": "Intro to Civic Engagement",
+              "url": "https://drexel.edu/lindycenter/students/courses/first-year-civic-engagement/civc-101/",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "COOP 101 - A+",
+          "sections": [
+            {
+              "title": "Career Mgmt/Profess Dev",
+              "url": "https://drexel.edu/scdc/co-op/policies/coop-101-course/",
+              "progress": {
+                "completed": 0.1,
+                "total": 0.1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGL 102 - A",
+          "sections": [
+            {
+              "title": "Composition and Rhetoric II",
+              "url": "https://catalog.drexel.edu/search/?P=ENGL%20102",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGR 131 - A+",
+          "sections": [
+            {
+              "title": "Intro to Programming for Engineers",
+              "url": "https://catalog.drexel.edu/search/?P=ENGR%20131",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 122 - A+",
+          "sections": [
+            {
+              "title": "Calculus II",
+              "url": "https://www.math.drexel.edu/classes/Calculus/math122.html",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PHYS 101 - A",
+          "sections": [
+            {
+              "title": "Fundamentals of Physics I",
+              "url": "https://catalog.drexel.edu/search/?P=PHYS%20101",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spring 2020",
+      "dates": {
+        "start": "2020-04-06",
+        "end": "2020-06-13"
+      },
+      "courses": [
+        {
+          "courseName": "ECE 105 - A+",
+          "sections": [
+            {
+              "title": "Programming for Engineers II",
+              "url": "https://catalog.drexel.edu/search/?P=ECE%20105",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGL 103 - A",
+          "sections": [
+            {
+              "title": "Composition and Rhetoric III",
+              "url": "https://catalog.drexel.edu/search/?P=ENGL%20103",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "ENGR 113 - A",
+          "sections": [
+            {
+              "title": "1st Year Engineering Design",
+              "url": "https://catalog.drexel.edu/search/?P=ENGR%20113",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+
+        {
+          "courseName": "ENGR 370 - A",
+          "sections": [
+            {
+              "title": "Measuring Air Quality with Kites",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/engr/#:~:text=Freshman%20or%20Sophomore-,ENGR%C2%A0370,-Vertically%20Integrated%20Projects",
+              "progress": {
+                "completed": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 200 - A+",
+          "sections": [
+            {
+              "title": "Multivariate Calculus",
+              "url": "https://www.math.drexel.edu/classes/Calculus/math200.html",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PHYS 201 - A",
+          "sections": [
+            {
+              "title": "Fundamentals of Physics II",
+              "url": "https://catalog.drexel.edu/search/?P=PHYS%20102",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fall 2020",
+      "dates": {
+        "start": "2020-09-21",
+        "end": "2020-12-12"
+      },
+      "courses": [
+        {
+          "courseName": "CI 101 - A",
+          "sections": [
+            {
+              "title": "Computing and Informatics Design I",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/ci/#:~:text=Courses-,CI%C2%A0101,-Computing%20and%20Informatics",
+              "progress": {
+                "completed": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 265 - A+",
+          "sections": [
+            {
+              "title": "Advanced Programming and Techniques",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20265",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 123 - A",
+          "sections": [
+            {
+              "title": "Calculus III",
+              "url": "https://catalog.drexel.edu/search/?P=MATH%20123",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 201 - A+",
+          "sections": [
+            {
+              "title": "Linear Algebra",
+              "url": "https://catalog.drexel.edu/search/?P=MATH%20201",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PSY 101 - A",
+          "sections": [
+            {
+              "title": "General Psychology I",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/psy/#:~:text=Courses-,PSY%C2%A0101,-General%20Psychology%20I",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winter 2021",
+      "dates": {
+        "start": "2021-01-11",
+        "end": "2021-03-20"
+      },
+      "courses": [
+        {
+          "courseName": "ACCT 110 - A+",
+          "sections": [
+            {
+              "title": "Accounting for Professionals",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/acct/#:~:text=Courses-,ACCT%C2%A0110,-Accounting%20for%20Professionals",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 164 - A",
+          "sections": [
+            {
+              "title": "Intro to Computer Science",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20164",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 260 - A+",
+          "sections": [
+            {
+              "title": "Data Structures",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20260",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 270 - A-",
+          "sections": [
+            {
+              "title": "Math Foundations of Computer Science",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20270",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 311 - A",
+          "sections": [
+            {
+              "title": "Probability and Statistics I",
+              "url": "https://catalog.drexel.edu/search/?P=MATH%20311",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spring 2021",
+      "dates": {
+        "start": "2021-03-29",
+        "end": "2021-06-12"
+      },
+      "courses": [
+        {
+          "courseName": "COOP 201 - A+",
+          "sections": [
+            {
+              "title": "Co-op Experience SAP America",
+              "url": "https://www.sap.com/about/careers/students-graduates/vocational-training/usa.html",
+              "progress": {
+                "completed": 16,
+                "total": 16
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MGMT 260 - A-",
+          "sections": [
+            {
+              "title": "Intro to Entrepreneurship",
+              "url": "https://catalog.drexel.edu/search/?P=MGMT%20260",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Summer 2021",
+      "dates": {
+        "start": "2021-06-21",
+        "end": "2021-09-04"
+      },
+      "courses": [
+        {
+          "courseName": "COOP 201 - A+",
+          "sections": [
+            {
+              "title": "Co-op Experience SAP America",
+              "url": "https://www.sap.com/about/careers/students-graduates/vocational-training/usa.html",
+              "progress": {
+                "completed": 16,
+                "total": 16
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "BLAW 201 - B",
+          "sections": [
+            {
+              "title": "Business Law I",
+              "url": "https://catalog.drexel.edu/search/?P=BLAW%20201",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fall 2021",
+      "dates": {
+        "start": "2021-09-20",
+        "end": "2021-12-04"
+      },
+      "courses": [
+        {
+          "courseName": "CI 102 - A",
+          "sections": [
+            {
+              "title": "Computing and Informatics Design II",
+              "url": "https://catalog.drexel.edu/search/?P=CI%20102",
+              "progress": {
+                "completed": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "COM 230 - A+",
+          "sections": [
+            {
+              "title": "Techniques of Speaking",
+              "url": "https://catalog.drexel.edu/search/?P=COM%20230",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 281 - C",
+          "sections": [
+            {
+              "title": "Systems Architecture",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20281",
+              "progress": {
+                "completed": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "MATH 221 - A-",
+          "sections": [
+            {
+              "title": "Discrete Mathematics",
+              "url": "https://catalog.drexel.edu/search/?P=MATH%20221",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SE 181 - A",
+          "sections": [
+            {
+              "title": "Intro to Software Engineering and Development",
+              "url": "https://catalog.drexel.edu/search/?P=SE%20181",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winter 2022",
+      "dates": {
+        "start": "2022-01-03",
+        "end": "2022-03-19"
+      },
+      "courses": [
+        {
+          "courseName": "CI 103 - A",
+          "sections": [
+            {
+              "title": "Computing and Informatics Design III",
+              "url": "https://catalog.drexel.edu/search/?P=CI%20103",
+              "progress": {
+                "completed": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 277 - A-",
+          "sections": [
+            {
+              "title": "Algorithms and Analysis",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20277",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 375 - A+",
+          "sections": [
+            {
+              "title": "Web Development",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20375",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SE 420 - B-",
+          "sections": [
+            {
+              "title": "Open Source Software Engineering - B-",
+              "url": "https://catalog.drexel.edu/search/?P=SE%20420",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "THTR 116 - A",
+          "sections": [
+            {
+              "title": "Philadelphia Theatre Let's Go!",
+              "url": "https://catalog.drexel.edu/search/?P=THTR%20116",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spring 2022",
+      "dates": {
+        "start": "2022-03-28",
+        "end": "2022-06-11"
+      },
+      "courses": [
+        {
+          "courseName": "COOP 201 - A+",
+          "sections": [
+            {
+              "title": "Co-op Experience SAP America",
+              "url": "https://www.sap.com/about/careers/students-graduates/vocational-training/usa.html",
+              "progress": {
+                "completed": 16,
+                "total": 16
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Summer 2022",
+      "dates": {
+        "start": "2022-06-21",
+        "end": "2022-09-03"
+      },
+      "courses": [
+        {
+          "courseName": "COOP 201 - A+",
+          "sections": [
+            {
+              "title": "Co-op Experience SAP America",
+              "url": "https://www.sap.com/about/careers/students-graduates/vocational-training/usa.html",
+              "progress": {
+                "completed": 16,
+                "total": 16
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fall 2022",
+      "dates": {
+        "start": "2022-09-19",
+        "end": "2022-12-10"
+      },
+      "courses": [
+        {
+          "courseName": "CJS 101 - A",
+          "sections": [
+            {
+              "title": "Introduction to Criminal Justice",
+              "url": "https://catalog.drexel.edu/search/?P=CJS%20101",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 361 - A+",
+          "sections": [
+            {
+              "title": "Concurrent Programming",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20361",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 461 - A+",
+          "sections": [
+            {
+              "title": "Database Systems",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20461",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PHIL 311 - A",
+          "sections": [
+            {
+              "title": "Ethics and Information Technology",
+              "url": "https://catalog.drexel.edu/search/?P=PHIL%20311",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "SE 310 - A",
+          "sections": [
+            {
+              "title": "Software Architecture I",
+              "url": "https://catalog.drexel.edu/search/?P=SE%20310",
+              "progress": {
+                "completed": 3,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Winter 2023",
+      "dates": {
+        "start": "2023-01-09",
+        "end": "2023-03-31"
+      },
+      "courses": [
+        {
+          "courseName": "CS T480",
+          "sections": [
+            {
+              "title": "Advanced Web Development",
+              "url": "https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/cs/#:~:text=times%20for%20credit-,CS%C2%A0T480,-Special%20Topics%20in",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "COM 270",
+          "sections": [
+            {
+              "title": "Business Communication",
+              "url": "https://catalog.drexel.edu/search/?P=COM%20270",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "PHIL 110",
+          "sections": [
+            {
+              "title": "Introduction to Philosophy",
+              "url": "https://catalog.drexel.edu/search/?P=PHIL%20110",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "WGST 101",
+          "sections": [
+            {
+              "title": "Introduction to Women's and Gender Studies",
+              "url": "https://catalog.drexel.edu/search/?P=WGST%20101",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "CS 360",
+          "sections": [
+            {
+              "title": "Programming Language Concepts",
+              "url": "https://catalog.drexel.edu/search/?P=CS%20360",
+              "progress": {
+                "completed": 1.5,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Future quarters",
+      "dates": {
+        "start": "2023-01-09",
+        "end": "2024-06-15"
+      },
+      "courses": [
+        {
+          "courseName": "Remaining Courses",
+          "sections": [
+            {
+              "title": "Remaining Courses",
+              "url": "#",
+              "progress": {
+                "completed": 0,
+                "total": 58.5
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

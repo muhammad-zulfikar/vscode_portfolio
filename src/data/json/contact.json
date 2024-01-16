@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Email",
+    "url": "mailto:zulfikar6556@gmail.com",
+    "icon": ["fas", "envelope"],
+    "isMain": true,
+    "text": "E-mail"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://linkedin.com/in/muhammad-zulfikar-076a7b227",
+    "icon": ["fab", "linkedin"],
+    "isMain": true,
+    "text": "LinkedIn"
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://wa.me/+6285156453730",
+    "icon": ["fab", "whatsapp"],
+    "isMain": true,
+    "text": "WhatsApp"
+  },
+
+  {
+    "name": "GitHub",
+    "url": "https://github.com/muhammad-zulfikar",
+    "icon": ["fab", "github"],
+    "isMain":true,
+    "text": "GitHub"
+  },
+  {
+    "name": "Resume",
+    "url": "/resume.pdf",
+    "icon": ["fas", "file-pdf"],
+    "isMain": false,
+    "isCenter": true,
+    "text": "Resume"
+  }
+]

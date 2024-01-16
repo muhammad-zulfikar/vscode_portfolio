@@ -1,0 +1,170 @@
+[
+  {
+    "language": "Afrikaans",
+    "hello": "hallo"
+  },
+  {
+    "language": "Azerbaijani",
+    "hello": "Salam"
+  },
+  {
+    "language": "Catalan",
+    "hello": "Hola"
+  },
+  {
+    "language": "Cebuano",
+    "hello": "Hello"
+  },
+  {
+    "language": "Dutch",
+    "hello": "Hallo"
+  },
+  {
+    "language": "English",
+    "hello": "Hello"
+  },
+  {
+    "language": "Filipino",
+    "hello": "Hello"
+  },
+  {
+    "language": "Finnish",
+    "hello": "Hei"
+  },
+  {
+    "language": "French",
+    "hello": "Bonjour"
+  },
+  {
+    "language": "Frisian",
+    "hello": "Hello"
+  },
+  {
+    "language": "Galician",
+    "hello": "Ola"
+  },
+  {
+    "language": "German",
+    "hello": "Hallo"
+  },
+  {
+    "language": "Haitian Creole",
+    "hello": "Bonjou"
+  },
+  {
+    "language": "Hungarian",
+    "hello": "Helló"
+  },
+  {
+    "language": "Icelandic",
+    "hello": "Halló"
+  },
+  {
+    "language": "Indonesian",
+    "hello": "Halo"
+  },
+  {
+    "language": "Italian",
+    "hello": "Ciao"
+  },
+  {
+    "language": "Javanese",
+    "hello": "Hello"
+  },
+  {
+    "language": "Kurdish (Kurmanji)",
+    "hello": "Hello"
+  },
+  {
+    "language": "Malagasy",
+    "hello": "Hello"
+  },
+  {
+    "language": "Malay",
+    "hello": "Hello"
+  },
+  {
+    "language": "Maltese",
+    "hello": "Hello"
+  },
+  {
+    "language": "Maori",
+    "hello": "Hiha"
+  },
+  {
+    "language": "Norwegian",
+    "hello": "Hallo"
+  },
+  {
+    "language": "Pashto",
+    "hello": "Salam"
+  },
+  {
+    "language": "Persian",
+    "hello": "Salam"
+  },
+  {
+    "language": "Polish",
+    "hello": "Cześć"
+  },
+  {
+    "language": "Portuguese",
+    "hello": "Olá"
+  },
+  {
+    "language": "Romanian",
+    "hello": "Alo"
+  },
+  {
+    "language": "Scots Gaelic",
+    "hello": "Hello"
+  },
+  {
+    "language": "Sesotho",
+    "hello": "Hello"
+  },
+  {
+    "language": "Shona",
+    "hello": "Hello"
+  },
+  {
+    "language": "Somali",
+    "hello": "Hello"
+  },
+  {
+    "language": "Spanish",
+    "hello": "Hola"
+  },
+  {
+    "language": "Sundanese",
+    "hello": "halo"
+  },
+  {
+    "language": "Swahili",
+    "hello": "Sawa"
+  },
+  {
+    "language": "Swedish",
+    "hello": "Hallå"
+  },
+  {
+    "language": "Turkish",
+    "hello": "Merhaba"
+  },
+  {
+    "language": "Urdu",
+    "hello": "ہیلو"
+  },
+  {
+    "language": "Uzbek",
+    "hello": "Salom"
+  },
+  {
+    "language": "Welsh",
+    "hello": "Helo"
+  },
+  {
+    "language": "Yoruba",
+    "hello": "Kaabo"
+  }
+]
