@@ -1,1 +1,0 @@
-{"version":3,"sources":["data/tabs/education.md"],"names":["module","exports"],"mappings":"6HAAAA,EAAOC,QAAU,IAA0B","file":"static/js/3.2b82b7df.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/education.e35473ec.md\";"],"sourceRoot":""}
