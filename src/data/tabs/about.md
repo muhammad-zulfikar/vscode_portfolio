@@ -5,14 +5,14 @@
 }<br>
 
 <strong>tools</strong> = {<br>
-    "programming_languages": {"Python", "SQL", "R", "Shell"},<br>
-    "databases": {"BigQuery", "MsSQLServer", "MySQL"},<br>
-    "data_visualization": {"Tableau", "Excel", "PowerBI", "Matplotlib", "Seaborn"},<br>
-    "math_tools": {"NumPy", "Pandas", "SciPy"},<br>
-    "software": {"Microsoft 365", "Google Workspace"},<br>
-    "webdev": {"HTML", "CSS", "Javascript", "ReactJS"},<br>
-    "operating_systems": {"Windows", "Ubuntu", "Android"},<br>
-    "editors": {"VSCode", "Jupyter Notebook", "Google Colab", "GitHub.dev", "ViM", "Notepad"}<br>
+    programmingLanguages: {"Python", "SQL", "R", "Shell"},<br>
+    databases: {"BigQuery", "MsSQLServer", "MySQL"},<br>
+    visualization: {"Tableau", "Excel", "PowerBI", "Matplotlib", "Seaborn"},<br>
+    mathTools: {"NumPy", "Pandas", "SciPy"},<br>
+    software: {"Microsoft 365", "Google Workspace"},<br>
+    webdev: {"HTML", "CSS", "Javascript", "ReactJS"},<br>
+    operatingSystems: {"Windows", "Ubuntu", "Android"},<br>
+    editors: {"VSCode", "Jupyter Notebook", "Google Colab", "GitHub.dev", "ViM", "Notepad"}<br>
 }<br>
 
 <strong>skills</strong> = {<br>
