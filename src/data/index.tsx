@@ -58,7 +58,7 @@ export const tabs: TabLink[] = [
   {
     name: 'education.css',
     url: '/education',
-    icon: ['fab' , 'css3'],
+    icon: ['fab', 'css3'],
     color: midBlue,
     mdFileName: 'education',
   },
@@ -70,10 +70,10 @@ export const tabs: TabLink[] = [
     mdFileName: 'projects',
   },
   {
-    name: 'skills.json',
-    url: '/skills',
-    icon: 'sliders-h',
+    name: 'about.py',
+    url: '/about',
+    icon: ['fab', 'python'],
     color: midBlue,
-    mdFileName: 'skills',
+    mdFileName: 'about',
   },
 ];

@@ -1,11 +1,12 @@
 {
   "mainLine": "Hi! I'm Zulfikar",
   "typed": [
-    "Welcome to my Portfolio",
-    "Im a Data Analyst",
-    "I'm an IR student @ UPNVJ",
+    "Welcome to my portfolio",
+    "I'm a <strong>Data Analyst</strong>",
+    "Click on the tabs above to navigate",
+    "I'm an <a href='https://fisip.upnvj.ac.id/tentang-s1-hubungan-internasional'>IR student @ UPNVJ</a>",
     "I have a relationship with data",
-    "I'm currently interning @ quantium",
-    "I play Tetris."
+    "I'm an <a href='https://16personalities.com/intp-personality'>INTP </a>through and through",
+    "I play <a href='https://tetr.io'>Tetris</a>"
   ]
 }

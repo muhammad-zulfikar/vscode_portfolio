@@ -1,13 +1,23 @@
-<h3>My \[academic\] background</h3>
+<pre>
+* {
+title: "Education"
+}</pre>
+
 <br>
 
-<h4>Universitas Pembangunan Nasional Veteran Jakarta (2021 - Present)</h4>
+<pre>
+.Universitas Pembangunan Nasional Veteran Jakarta {
+    year: "2021 - Present";
+    major: "International Relations";
+    gpa: "3.72/4"
+}
+</pre>
+<br>
 
-  - Bachelor of International Relations
-  - Expected Graduation in Aug 2026
-  - GPA: 3.72
-
-<h4>Madrasah Aliyah Negeri 2 Jakarta (2018 - 2021)</h4>
-
-  - Linguistic Major
-  - Average score 88.4
+<pre>
+.Madrasah Aliyah Negeri 2 Jakarta {
+    year: "2018 - 2021";
+    major: "Languages and Communications Department";
+    gpa: "88.4/100"
+}
+</pre>

@@ -1,40 +1,32 @@
-<h3>Some of the projects I've worked on so far</h3>
+const title = 'Projects'
+<br>
 <br>
 
-### - [Linkedin Job Analysis](https://github.com/muhammad-zulfikar/linkedin-job-posting-2023)
+- [project3](https://github.com/muhammad-zulfikar/linkedin-job-posting-2023): [{<br>
+  - name: ["LinkedIn Job Analysis"](https://github.com/muhammad-zulfikar/linkedin-job-posting-2023),<br>
+  - description: "Analyzed large-scale LinkedIn job postings data to identify top skills and industry trends",<br>
+  - dataSource: ["Kaggle"](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings),<br>
+  - github: [https://github.com/muhammad-zulfikar/linkedin-job-posting-2023](https://github.com/muhammad-zulfikar/linkedin-job-posting-2023"),
+  - tools: {<br>
+    -   programmingLanguages: "Python", "SQL",<br>
+    -   databases: "Google BigQuery",<br>
+    -   dataPrep: "Google Colab", "Pandas",<br>
+    -   visualization: "Tableau" }]
 
-- Data Source: Data was downloaded from [Kaggle](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings) on 5 January 2024.
-      
-- Tools:
-  - Google Colab, for data cleaning and preparation using Python,
-  - Google BigQuery, for Exploratory Data Analysis and SQL querying,
-  - Tableau, for visualization.
 
-- Purposes:
-  - Analyzed large-scale data of LinkedIn job postings to extract valuable insights on the most sought-after skills in 2023.
-  - Examined shifts in skills demand across different industries, revealed promising career paths and potential skill gaps.
-  - Highlighted skill combinations that enhance employability and potential salary benefits.
+- [project2](https://github.com/muhammad-zulfikar/web-homepage): [{ <br>
+  - name: [Landing page](https://github.com/muhammad-zulfikar/web-homepage),<br>
+  - description: "Created a login and sign up screen webpage",<br>
+  - github: [https://github.com/muhammad-zulfikar/web-homepage](https://github.com/muhammad-zulfikar/web-homepage)},
+  - tools: {<br>
+    -   programmingLanguages: "HTML", "CSS", "JavaScript",<br>
+    -   editor: "Visual Studio Code" }]
 
-  <!-- <p align="center">
-    <a href="https://github.com/muhammad-zulfikar/linkedin-job-posting-2023">
-      <img src="/images/projects/skills_demand.png" width="80%">
-    </a>
-  </p> -->
-<br>
 
-### - [Login screen webpage](https://github.com/muhammad-zulfikar/web-homepage)
-
-- Created a login and sign up screen webpage with HTML, JavaScript, and CSS
-
-  <!-- <p align="center">
-    <img src="/images/projects/market-sim.png" width="80%"/>
-  <p> -->
-<br>
-
-### - [Adblock Magisk Module](https://github.com/muhammad-zulfikar/adblock-magisk-module)
-
-- Built a lightweight and efficient module for magisk rooted android device in Shell that block ads system-wide. The module uses the AdAway hosts file library.
-
-  <!-- <p align="center">
-    <img src="/images/projects/course-notifier.png" width="80%">
-  </p> -->
+- [project1](https://github.com/muhammad-zulfikar/adblock-magisk-module): [{<br>
+  - name: ["Adblock Magisk Module"](https://github.com/muhammad-zulfikar/adblock-magisk-module),<br>
+  - description: "Efficient module for magisk rooted android device that block ads system-wide",<br>
+  - github: [https://github.com/muhammad-zulfikar/adblock-magisk-module](https://github.com/muhammad-zulfikar/adblock-magisk-module)}<br>
+  - tools: {<br>
+    - programmingLanguages: "Shell",<br>
+    - editor: "Notepad" }]
