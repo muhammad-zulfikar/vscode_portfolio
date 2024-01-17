@@ -3,7 +3,7 @@
 exports[`<GHButton /> should render correctly 1`] = `
 <DocumentFragment>
   <a
-    aria-label="Follow @caglarturali on GitHub"
+    aria-label="Follow @muhammad-zulfikar on GitHub"
     class="root-0-2-1"
     href="https://github.com/muhammad-zulfikar"
     rel="noopener noreferrer"

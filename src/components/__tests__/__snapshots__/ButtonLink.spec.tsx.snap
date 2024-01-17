@@ -3,7 +3,7 @@
 exports[`<ButtonLink /> should render correctly 1`] = `
 <DocumentFragment>
   <a
-    aria-label="turali.js.org"
+    aria-label="muhammad-zulfikar.github.io"
     class="root-0-2-1"
     href="https://turali.js.org"
     rel="noopener noreferrer"
