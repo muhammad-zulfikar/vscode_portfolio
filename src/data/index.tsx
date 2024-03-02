@@ -8,8 +8,6 @@ import { jsOrange, midBlue } from '../theme/colors';
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
 // eslint-disable-next-line
-import csData from './json/cs.json';
-// import baData from './json/ba.json';
 import pkg from '../../package.json';
 
 // eslint-disable-next-line

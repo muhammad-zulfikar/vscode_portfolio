@@ -5,9 +5,9 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/muhammad-zulfikar/vscode-portfolio"
+    "url": "https://github.com/muhammad-zulfikar/vscode_portfolio"
   },
-  "homepage": "http://muhammad-zulfikar.github.io/vscode-portfolio",
+  "homepage": "http://muhammad-zulfikar.github.io/vscode_portfolio",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
