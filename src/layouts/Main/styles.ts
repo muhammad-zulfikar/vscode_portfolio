@@ -42,6 +42,10 @@ export default {
     '.color-transform': {
       transform: 'color 500ms ease',
     },
+    '*': {
+      scrollbarWidth: 'thin',
+      scrollbarColor: 'rgba(255, 255, 255, 0.5) ' + bgMidBlue,
+    },
   },
   root: {
     position: 'absolute',
